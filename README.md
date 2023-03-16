@@ -23,8 +23,16 @@ Breve descrição e contextualização do projeto
 
 ###  Rode o projeto
 
+#### Ambiente Dev
+
 ```sh
-  npm run dev
+  npm run start
+```
+
+#### Ambiente Homologação
+
+```sh
+  npm run start:hml
 ```
 
 Abra o servidor em: `http://locahost:8000`
