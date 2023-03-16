@@ -21,6 +21,12 @@ Breve descrição e contextualização do projeto
   npm install
 ```
 
+###  Rode o projeto
+
+```sh
+  npm run dev
+```
+
 Abra o servidor em: `http://locahost:8000`
 
 ## 🔧 Executando os testes
